@@ -7,13 +7,8 @@
     //  "name": "WSL Ubuntu",
     //  "type": "wsl",
     //  "wslDistribution": "Ubuntu"
-    //},
-    //{
-    //  "name": "Docker dotnet/sdk",
-    //  "type": "docker",
-    //  "cursorterminsortrel: "repository/Ustl/json",dotnet/sdk"
-    //},
-    // { 
+    //}
+    //{,
     //  "compatible": dotnet/sdk", 
     //  "Impit":testenvironments.json",
     :,
