@@ -4,10 +4,10 @@ kess:kickPronome:#nemager
 
 name Space ruble-static server
   
-*//fileprofing wasp.program={sheamarin small group assesing}data=getsmall outbut=imput setting*/ 
-*//fileprofing wasp.program="terminal"terminal="terismatvpedev.tcc"/*d =directory () content=repository create*/
-*//credintias create="asp.net drish=cewoll dir="{controm.dir}"(dir)waraylog =nowpromtsheaping*/
-  
+*/fileprofing wasp.program={sheamarin small group assesing}data=getsmall outbut=imput setting*/ 
+*/fileprofing wasp.program="terminal"terminal="terismatvpedev.tcc"/*d =directory () content=repository create*/
+*/credintias create="asp.net drish=cewoll dir="{controm.dir}"(dir)waraylog =nowpromtsheaping*/
+*/java.script.Seapegled.Simpleserver.Quaryquest.Stulleskey.js/*
 class = "down trech" main="shmuwndomain"external="foldiv well weif set-lowdir"/Receiver="{h:comit-export}
  {
 direct perifiers="tedchmenagen=onsetshiv&common"/cut="book,staring"*./local-server),
@@ -26,7 +26,8 @@ Litiion if gamastecher param="scc.script.source.files.js/base/texte.exp view="Ac
     vouer= diretory expect-tree()doblesession suport magen main.sericeid:sha saley by/CMD.dr = report clouase partition ex.usalt.ytd,
  {]
 kinPronome:#nemagest_Sat hons if kit shortVBS = "Card.Casefinder.spotchuck.CS" namespace = "tree"__declspec = "namespace"where = "withe_share_WS_Serie"combo = "comodoro"toseplac = "licenceAtributeShell"Askell = "propieded"taugennss:kiff"(true)";
-   }compilation = formulary for computed source from simpleserverdata update /n setting="corsel_Agend type protocol="res campire/empity: prog global github-dlc.cc" Ify not comon handler search = "tendship.Casefinder.spotchuck.CS" vigent="github.Mess.data.bloguer.explore.cs" custon domain="computed" explore-pockeep="website"{ now net = simpleserver reloaderhost tennd skeepjoy = "planejament"costonset = MSK_torrent }(dealley = "splassKess-chamarin(nut")],
+   
+}compilation = formulary for computed source from simpleserverdata update /n setting="corsel_Agend type protocol="res campire/empity: prog global github-dlc.cc" Ify not comon handler search = "tendship.Casefinder.spotchuck.CS" vigent="github.Mess.data.bloguer.explore.cs" custon domain="computed" explore-pockeep="website"{ now net = simpleserver reloaderhost tennd skeepjoy = "planejament"costonset = MSK_torrent }(dealley = "splassKess-chamarin(nut")],
 ruble="static fisic" sec="ku-jhrb7.ist-Sat Starone_C2" nes=(ku-jhrb7.ist-Sat Starone_C2) get="devools" dump="tor:#nameNandProgram-item",
  }
 componente:company dealley chearset="root" squabril="ficheiro" podcast="Username manager" name-sincronizer="JeTaskcast-reg.me" sentWin,(var sincronizer pepeline="chip-receiver.drive.script.ppf Param object socker UBD.dll propieded protect and Suport FPSM_SatUbrasgise_ige.iks
@@ -72,7 +73,6 @@ prompt:/ping widget =Extrato ger/fts /m/ openlouad/status button="rel terminal-A
   }
 laucher="socket inline" auto-checker giftool="create"teclar="rgh" gintable art="(keybouad)"
 token="publisher intro gateway"indefier="raw" reason="protocol" private="aubrate-Exet-Agend" pariate="perimetro" primary="scourd:multiboot bloodlens_Export="sadrimoney"spoolcheck="fragment"funcion="fileserve"fluedsfridge="Narck_shipset" charset="seo.us" Endlast-hunter
-*/java.script.Seapegled.Simpleserver.Quaryquest.Stulleskey.js/*
 gerenciador:SSID IDsid wireless sufixo:gestion-Username],%STb.WSID%
 texmonur="trinumberFrela.sys"busch-ban criete folder Sur data Aplicationfirmat="loock-0"reasonSplit="natclorckcmd.cmd"
 vecos=Saxpedownpwd:shutdown /p -select=FuncionActive Asession=Set-db.brudrin-id:custon.txt inserir="diretory"banrom="bin.sur" Srckag="iresArcheve_fresh-lauch"
