@@ -15,7 +15,7 @@ direct perifiers="tedchmenagen=onsetshiv&common"/cut="book,staring"*./local-serv
     <!--class tocker terval galery list-suport repertory filter othes-->
    *.class  primary="resource/packager"()dependence{content Atributo defining southopgeting..(e)sent document:
       {   
-   *.*public build_rally despatch /eh include=clear-easyUrl-sync"kitcense=iserdata),   
+   *.*public build_rally despatch /eh include=clear-easyUrl-sync"kitcense=userdata),   
           }
 Litiion if gamastecher param="scc.script.source.files.js/base/texte.exp view="Action.vulr" driw={com},Apregrama$shamarin="[receiver]"  
     {
