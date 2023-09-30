@@ -92,7 +92,7 @@ Privelege=hab_IA.Jar /free="suNameType" RiuAuthor="dwgbjpro@gmail.com" Acont=Add
 show emulador item=setup/?index.spack.scan="folderContent="users" "C:/explore(lefthoutrum swn:parplaySteoffOpen="pes"Inetbudrickdeshe.main="yes"/r/sim?=confirm)\t/on-yes
 show emulador item=setup/?index.spack.scan="folderContent="users" "C:/explore(lefthoutrum swn:parplaySteoffOpen="pes"Inetbudrickdeshe.main="no"/r/não?=confirm)\t/off-on
 IUD:\windows\system32\Appdata\Dump\filePage\down\Sipom\Helper\Calhecho\But-to bio:Pause in play/out=[on]\yes/ Veify wearch end out /s /i /funcion:playout set usrdir  out =1, \yes"/r/sim?=confirm)\t/on-yes
-F:/WINDIR/IDIR/Generate.genuwinbra.CafeASP.kps/1S/PDF.Asdc.Udl/*.srd/*.vible.en-US.Inglish%TEMP% %forms% %Download%\f/Job.Simple.PDF.Asdc.Udl/DNLa-safari.cob
+F:/WINDIR/IDIR/Generate.genuwinbra.CafeASP.kps/1S/PDF.Asdc.Udl null *./srd/*.vible.en-US.Inglish/%TEMP% %forms% %Download%\f/Job.Simple.PDF.Asdc.Udl/DNLa-safari.cob
 {$exel}:F/]**.={[SYSTEM]
 PRIVACY=#VAT1-TEORDIR(SHEVING_LASPY)\EBIGMATICTRACOEVOPLEBCITO-INCOPLANE_VEGARFOWIT
 doindropdir:\dopping %dir%==>dommain\local\control\shourtmape\tree\withe\common\fastboot\boot\cmd.exe\%temp%\span-Archive\bootfile*.*C:\windows\system32\program files(x86)\ufo=iso=177323-15\Appdata-patch*.*C:\windows\system32\%temp%\windir\usrdir\file-data\spywere\flash\fileApps\sync\get\corrent\control\setcontrol=Programdata\Install%syslog%(select)\Local="setting\fat32;(setup)*.={fileInstall};ping="install"}...exit:taluken.exit
