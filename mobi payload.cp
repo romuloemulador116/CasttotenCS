@@ -29,7 +29,7 @@ sshhost $[@dommain connecting.../?
 goto Offline sleep %windir% chourbet fat-setup wordop -su shutdown -l -r sumaty rearchive(GrinCat)evo=goto pin=Exobat*.*flash="InShoudMacker"Bask=Ultiback
 about pscp prink f @<data>:outline documentinfo:sshkeys
 }
-ssh remore_alias="restricted" netmask="255.255.255.0"
+nube:Apn $ssh@[~.ssh/case_cache/cheautmode\v/var="remoto" alias="restricted" netmask="255.255.255.0"
 {
 shell cdscp- p @ putty location ssh:permitrootloguin #withont-password
 {sshkeygen -t rsa -b 4096 -c /~ssh.id_rsaput"Lan wois="hostting"$whoami@$(sh1.usbretceptendrens.net) [$(data)]"
