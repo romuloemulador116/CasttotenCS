@@ -1,21 +1,20 @@
 [CPDCI-DOS_Windows-PC]
 [IOS=*/></.*Apk] 
 *//Java.Script.Project.javes.BAG = Root/boot beast build.app/Android.bleachNew_Dicoverysence.hackerApp.apk/*
-*//MediateckAero-dir Mouse-Frp="shearigawey"Plac = Quad core/pulse/pulseId="LameCromecast="IS-IA-FanderBafilia.EjetFlowplus.decision"/AutoAgent=IA-FameApp.k/*
+*//MediateckAero-dir Mouse-Frp="shearigawey"Plac = Quad core/pulse/pulseId="Lamepuse"/*
+*//Cromecast="IS-IA-FanderBafilia.EjetFlowplus.decision"/AutoAgent=IA-FameApp.apk/*
 Pluguin="Pipeleshell.vps"
 */feary/*.( tunning="podcast-1"Hens="location"clip_AVDc/unidade-gadget)" 
 *//All=Inseride_plug/*
 *//reflash=boot/Asp/Span/check/output/
 *//flashinstall/hubpub.lnk/*
 *./Url_Apk=Apk-Android.AppshellService.Network.sys/
-HDRF1:\GET\VBOOT\FALSENCE\LOTEBOOK\JOICE\ECHO-RAWDRIVE_%DROP\VELLENT_BIOS-DOS\SHA-%ROOT\PERIFERING-BIOS\DOS-COMPUTER\FILEBOOT\BOUSEDIR_%BOOTFALLTRACK\BIOS_%SECE\TABTENBIOS-%PARTITION\PRIMARY\BOOTFALLTRACK\FLASHBOOT\BOOT\LOCAL-SYSTEM_MACHINE\SETcontrol\PARAM\OFICIAL\DEPOSITE\DEFAULT\INSTALL\OFFLIST\%startinstall%%USER-RESV.KEY==>%INSTALL% %TEMP%LOCAL="[SETUP]
-HDRF1:\GET\VBOOT\FALSENCE\LOTEBOOK\JOICE\ECHO-RAWDRIVE_%DROP\VELLENT_BIOS-DOS\SHA-%ROOT\PERIFERING-BIOS\DOS-COMPUTER\FILEBOOT\BOUSEDIR_%BOOTFALLTRACK\BIOS_%SECE\TABTENBIOS-%PARTITION\PRIMARY\BOOTFALLTRACK\FLASHBOOT\BOOT\FILESETCONTROL\LOGOUT\%SETUP%%startinstall%USER-RESV.KEY==>%INSTALL% %TEMP%LOCAL="[SETUP]
-HDRF1:\GET\VBOOT\FALSENCE\LOTEBOOK\JOICE\ECHO-RAWDRIVE_%DROP\VELLENT_BIOS-DOS\SHA-%ROOT\PERIFERING-BIOS\DOS-COMPUTER\FILEBOOT\BOUSEDIR_%BOOTFALLTRACK\BIOS_%SECE\TABTENBIOS-%PARTITION\PRIMARY\BOOTFALLTRACK\FLASHBOOT\BOOT\SETCONTROL\OFFLIST=%STARTINSTALL%%startinstall%USER-RESV.KEY==>%INSTALLED %TEMP%LOCAL="[setup]
-HDRF1:\GET\VBOOT\FILEBOOT\BOSEDirTRACK\BIOSEME\TALTIBITION\PROMARY\BOOTTRACK\flashboot\boot\Stockedboot-Begen\file-wardware\Multiboot\RV-INTALY_Bringed\Defery_MS-Dos\UDr-DropRom\Rarwich\Ping\fastboot\windows-Shargewild\setting\corrent\Control\Reboot\down_Blewoult\Skivtrack_dick\diskpart\Wirild-fastboot○\?/:default=[flashboot] Pav=ID:19.0731.428218-873
 primary-operation:\prewier\version\visual\setup\systach\%windir%\dir\deepwik_slote C:\shoterdataset=erro\%delet%=_%cache%\%SysMouch_tourLaterydata%[h:\lendtask-tabitkey%fat.exe.key]
 USBModem_Gawichenet:\NetlineShoy\routher\Reason\CouseshellRouther\Routher\Files-Prograns\Tour\Programdata\Primary\PApBoot\Hosting\Unificate\UDGLModem\Pin-GSM_Modem\GTSD_HOST\Multitaxa\volume\
 Unidade:Storange\Stougen\Check\trafing\FTHS_ping\IC\ICPConfig\Nogout_Telnet\PCCM-Modemdrive\ShaseRoad_keep\Joindramp\Hitongreen\Logout\UPfa_Modem_USB_Sevinderige\Venlid\validation\antweve.nva
-goto = Blakebouard Resetting Dump="Plaise" base="Setting" Lowtime="Eneseday" Haweydtrin="Minute" Sout="Chepa" Number="700" Ckiv="Shift" Skin="treomet" control="house" Assistent="Stage" Lan="Status" Atos="compartiment;00&:100&:00::00="HH:MM:SS:<10:%100%+A-Z;/Aspect="session" Automatic="Senidy" Sploint="Discager" Tom_prefers="Stigner"(Tom-Stigner="(Discager/time="10.000.0000.000")"
+goto = Blakebouard Resetting Dump="Plaise" base="Setting" Lowtime="Eneseday" Haweydtrin="Minute" Sout="Chepa" Number="700" Ckiv="Shift" Skin="treomet" control="house" 
+Shps-valesha,Vid,Arip"()rentry="[?][audio.cds$$$$$$$$$$$$$Ycid.vpn FROM] sumary="finder acsission sos renderfribe";
+bourWiuld_life = "passfull" bouard = ("layout")buiuld = ("correio")DecorrentPariartext.txt = "var@error"Span = "(parear)"Unyfiquie = "Arest-Element"common = "(timeout?)"Bouard = ("implement")defenders = "document"(update/maker=="%dados%(print)?dir==Please Withe and Start),Ultidade="plasmate"()hor-fictice%time%*&=please...\U.TD = %dados%?==>Pause Withe and install%==>[%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%1%100.000.000-1000:23:00]=[-insering#...!"]
 BootLoad:\fastboot\Boot\SysMachine\Filecache\UserBreack\Ultiback\hotRom\NetLink\IPConfig\LocalHost\OpenLoad\Android\Appdata\IOS\cache\checkList\Search:host_Intermit="Internet"
 local:\Windows\system32\windir\dir\AppData\Local\temp\SysWOW64\Backup\EMEVIVAST\Plugin\Plugin\SysMAC\Advanced\Installer\Routher\WinlleID\hostpot\Small\setting\port\servidor\All\Loguin\Password\Windirkey_ID\Dir="Key_ID" WSCheVakill="Key"\outimput="{EdreetsheckupRun.eps}"
 Patch C:\Windows\system32\windir\dir\AppData\Local\temp\localhost\hostpot\Event\protocol\localcontrol\Page\ 
@@ -731,4 +730,3 @@ pause=format-play reched-frecher and=realplay cloock=minuto/a minuto);null}
 file=Idps:rootBoot /P Split=config"-loock=Addon shotboot=shourtimput"
 SplitTeans=offbloock
 cls
-
