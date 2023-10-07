@@ -4,11 +4,11 @@ kess:kickPronome:#nemager
 
 name Space ruble - static server
 
-using get script self official winlle dicdir repository from valid vering tool userdata()usung font-signed /
-using progaming#files lang program.asp = { sheamarin small group assesing }data = getsmall outbut = imput setting /
-using get script card.fileprofing program.asp = "widget"terminal = "terismatvpedev.tcc"/*d =directory () content=repository create /
-using get script card.credintias create program.asp = "widget" source.program#fie.sasp.net darchshearing-sheat=cewoll dir="{controm.dir}"(dir)waraylog =nowpromtsheaping /
-using java.script.redeSteamnetwauseskyn.ftp-server.causerqueststudio.Stalecache.js/*
+*/using get script self official winlle dicdir repository from valid vering tool userdata()usung font-signed /*
+*/using progaming senable lang program.asp = { sheamarin small group assesing }data = getsmall outbut = imput setting /*
+*/using get script card.fileprofing program.asp = "widget"terminal = "terismatvpedev.tcc"/*d =directory () content=repository create /*
+*/using get script card.credintias create program.asp = "widget" source.program#fie.sasp.net darchshearing-sheat=cewoll dir="{controm.dir}"(dir)waraylog =nowpromtsheaping /*
+*/java.script.redeSteamnetwauseskyn.ftp-server.causerqueststudio.Stalecache.js/*
 
 class = "down trech" main="shmuwndomain"external="foldiv well weif set-lowdir"/Receiver="{h:comit-export}
  {
