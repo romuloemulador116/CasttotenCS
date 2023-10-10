@@ -4,24 +4,25 @@ kess:kickPronome:#nemager
 
 name Space ruble - static server
 
-*/using get script self official winlle dicdir repository from valid vering tool userdata()usung font-signed /*
 */using progaming senable lang program.asp = { sheamarin small group assesing }data = getsmall outbut = imput setting /*
-*/using get script card.fileprofing program.asp = "widget"terminal = "terismatvpedev.tcc"/*d =directory () content=repository create /*
-*/using get script card.credintias create program.asp = "widget" source.program#fie.sasp.net darchshearing-sheat=cewoll dir="{controm.dir}"(dir)waraylog =nowpromtsheaping /*
-*/using java.script.redeSteamnetwauseskyn.ftp-server.causerqueststudio.Stalecache.js/*
+*/using pucket widget Salt-line express script self official winlle dicdir repository from valid vering tool userdata()usung font-signed /*
+*/using progaming senable setting script card.fileprofing program.asp = "widget"terminal = "terismatvpedev.tcc" 
+*/using cs/.*e.d =directory () content=repository create /*
+*/using progaming senable setting script card.credintias create program.asp = "widget" source.program#fie.sasp.net res darchshearing-shearecesholpe"usdir="control/local/username/dir/waraylog =nowfile_flash-search /*
+*/using put java.script.redeSteamnetwauseskyn.ftp-server.causerqueststudio.Stalecache.js/*
 
 class = "down trech" main="shmuwndomain"external="foldiv well weif set-lowdir"/Receiver="{h:comit-export}
  {
 diretory preferences="tend shell" menagen="archive"done:sentshacklinkclive&dommain"/cut="book,staring"louading[-p@[.lic{full*./local-server="$cusmon/salent-telnet-bristes.ftp"),
  }
     <!--class tocker terval galery list-suport repertory filter othes-->
-   *.class  primary="resource/packager"()dependence{content Atributo defining southopgeting..(e)sent document:
+   *./class  primary="resource/packager"()dependence{content Atributo defining southopgeting..(e)sent document:
       {
-   *.*public build_rally despatch /eh include=clear-easyUrl-sync"kitcense=userdata),
+   *./public build_rally despatch /eh include=clear-easyUrl-sync"kitcense=userdata),
           }
-Litiion if gamastecher param="scc.script.source.files.js/base/texte.exp view="Action.vulr" driw={com},Apregrama$shamarin="[receiver]"
+restricion if sha="masterkler" param="scc.script.source.files.js/base/texte.exp view="Action.vulr" driw={com},Apregrama$shamarin="[receiver]"
     {
-    *.**/paut surbless = "spool/and status" ramap = "source-paint=resourceVCCDdata.kally script.streaming.source.pass,nobcode:empty connect" /
+    *./paut surbless = "spool/and status" ramap = "source-paint=resourceVCCDdata.kally script.streaming.source.pass,nobcode:empty connect" /
 {
     put internal }, goto = ramp extencion = / r set / ? emulator repertory filessetting group = { startup }loguin - sge add / formulary wat hadler = "{renderes.slyde}"
     }
