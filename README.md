@@ -16,7 +16,7 @@ or <a href="mailto:astresapar@hotmail.com"><b>email</b></a> me.
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mask&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github Stats">
 
 </br>
 </br>
@@ -27,7 +27,7 @@ or <a href="mailto:astresapar@hotmail.com"><b>email</b></a> me.
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.google.com.br/in/ronsk-sekio" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
-<a href="https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/perfil/in/motion/profile=?q%2Fronsther_romu%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
