@@ -30,7 +30,7 @@ TABEL SITES
 <meta charset="utf-8" />
 <version="1.0" encoding="UTF-8">
 <head>
-<title>Bayckokeer</title>
+BACKUP
 </head>
 <body>
 <td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank" src="Sundtime-Data=ZNT"T09-200:-00:59:1-s/0001-your"></tr></td>  
@@ -39,7 +39,7 @@ TABEL SITES
 <content se fatura {gestion forbiden reren="submit">
 <id><a href="https://www.google.com.br"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id>
 <id><button class type="button button1">foud</button></id>
-<button class type="button button1"><mailto:adelicia10@gmail.com>ENTER<terget_blank"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
+<button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1">ENTER<a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
 <embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank" src=""scrollins="pixel"weshdit_tabel="11"></embed>
 <div>
 </div>
