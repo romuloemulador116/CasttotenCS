@@ -20,7 +20,7 @@ or <a href="mailto:astresapar@hotmail.com"><b>email</b></a> me.
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>Random development custon for you! (create your submit here ↓)</i><br>
 
 ---
 
