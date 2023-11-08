@@ -33,7 +33,7 @@ TABEL SITES
 BACKUP
 </head>
 <body>
-<td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
+<td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Senlertime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
 <info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><pin="submit -g tss cont="$" pagar="mailto:dwgbjpro@gmail.com" Afiliados="Alisean"bether=" Assistente"giro-capital ="money-contribuição"><a href="https://www.facebook.com" {
 <goto universal UserID:pack ruble mailto:adelicia10@gmail.com cont="Afiliados-alias"bask-caixa="cashback">
 <a content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit}"></a>
