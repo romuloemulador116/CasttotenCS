@@ -5,12 +5,6 @@ s#AI  RE:ADS-Shell-AI_APK
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be bs#AI  RE:ADS-Shell-AI_APK
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <href src="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
-</div>
-
 <div align="center">
 
 You have finally discovered my Github profile. <br>
@@ -79,8 +73,7 @@ menu="guide"</button>
 
 <a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
 <a href="https://www.instagram.com/perfil/in/motion/profile=?q%2Fronsther_romu%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="" target="_blank"><img src="  https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"><a https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
+<a href="" target="_blank"><img src="  https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
 </div>
 etter. <br>
 Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
