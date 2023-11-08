@@ -65,9 +65,7 @@ menu="guide"</button>
 <SmartShell/SourceSearch="UrlBrowser"><url="%browser%","href="www.google.com.br"/>
 <td><tr><intro?=$@@localhost/instenamerap=map export & "o tributo="Active"(true);Subjetivo bank this llow bost id="item" -Narck="1-9">
 </tr></td> 
-</div>
-</body>
-</html>
+  
 <i>Follow me around the web:</i><br>
 
 <a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
