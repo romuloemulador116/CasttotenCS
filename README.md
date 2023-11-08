@@ -37,8 +37,9 @@ BACKUP
 <p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$" src="pagar="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean" bether=" Assistente"><class="dados"giro-capital ="money-contribuição"><a href="https://www.facebook.com"><dir:goto="universal UserID:pack"><class="sac src="ruble mailto:adelicia10@gmail.com"><class="dados" cont="Afiliados-alias"bask-caixa="cashback">
 <div content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit"></p>
 </div></div><id><a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id></div></p>
+<div alain="center"
 <button class type="button button1">ENTER</button><div>
-<button class type="button button1"><mailto:adelicia10@gmail.com>no Facebook<Button type="button button1"></div><a href="https://www.facebook.com/profile.php?id=100083385104890"></button> 
+<button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1"no Facebook<a href="https://www.facebook.com/profile.php?id=100083385104890"></button> 
 <embed><class="bouso-free my cont"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
 <div>
 </div>
