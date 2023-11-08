@@ -35,15 +35,14 @@ TABEL SITES
 BACKUP
 </head>
 <body>
-<td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
-<p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$" src="pagar="mailto:dwgjpro@gmail.com:Afiliados"><alisean"if bether="Assistente"><class="dados"giro-capital ="money-contribuição"><a href="https://www.facebook.com"><div dir:goto="universal UserID:pack" class="sac"src="ruble mailto:adelicia10@gmail.com" class="dados" cont="Afiliados-alias"bask-caixa="cashback">
-<div content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit"></p>
+<div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%">  
+<info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$" src="pagar="mailto:dwgjpro@gmail.com:Afiliados"><alisean"if bether="Assistente"><class="dados"giro-capital ="money-contribuição"><a href="https://www.facebook.com"><div dir:goto="universal UserID:pack" class="sac"src="ruble mailto:adelicia10@gmail.com" class="dados" cont="Afiliados-alias"bask-caixa="cashback">
+<div content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit">
 <a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id>
-<div alain="center"
+<div alain="center">
 <button class type="button button1">ENTER</button>
 <button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1">o Facebook<a href="https://www.facebook.com/profile.php?id=100083385104890"></button> 
 <embed><class="bouso-free my cont"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
-<div></div>
 <past/:copy/y dmpast%temp%(Add=%nowpast%
 dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
 <token:Android\Appdata\Source\Storange&files\FilesApp\copy\><
