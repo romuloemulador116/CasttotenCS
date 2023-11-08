@@ -39,7 +39,7 @@ BACKUP
 </div></div><id><a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id></div></p>
 <div alain="center"
 <button class type="button button1">ENTER</button>
-<button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1"no Facebook<a href="https://www.facebook.com/profile.php?id=100083385104890"></button> 
+<button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1">o Facebook<a href="https://www.facebook.com/profile.php?id=100083385104890"></button> 
 <embed><class="bouso-free my cont"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
 <div>
 </div>
@@ -72,6 +72,6 @@ menu="guide"</button>
 
 <a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
 <a href="https://www.instagram.com/perfil/in/motion/profile=?q%2Fronsther_romu%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/DEV.to%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="" target="_blank"><img src="  https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"><a https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
