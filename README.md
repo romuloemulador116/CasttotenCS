@@ -34,12 +34,12 @@ BACKUP
 </head>
 <body>
 <td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank" src="Sundtime-Data=ZNT"T09-200:-00:59:1-s/0001-your"></tr></td>  
-<info bruto $ cep apn arel suit page facebook.com {
-<goto universal UserID:pack ruble mailto:adelicia10@gmail.com alias>
-<content se fatura {gestion forbiden reren="submit">
+<info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"submit -g tss cont="$" pagar="mailto:dwgbjpro@gmail.com" Afiliados="Alisean"bether Assistente="money contribuição"><a href="https://www.facebook.com" {
+<goto universal UserID:pack ruble mailto:adelicia10@gmail.com cont="Afiliados-alias"bask-caixa="cashback">
+<a content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit}"></a>
 <id><a href="https://www.google.com.br"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id>
 <id><button class type="button button1">ENTER</button></id>
-<button class type="button button1"><mailto:adelicia10@gmail.com>Facebook<Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
+<button class type="button button1"><mailto:adelicia10@gmail.com>no Facebook<Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
 <embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank" src=""scrollins="pixel"weshdit_tabel="11"></embed>
 <div>
 </div>
