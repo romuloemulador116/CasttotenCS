@@ -42,22 +42,21 @@ BACKUP
 <embed><class="bouso-free my cont"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
 <div>
 </div>
-<past/:copy/y dmpast%temp%(Add=%nowpast%
-dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
-<token:Android\Appdata\Source\Storange&files\FilesApp\copy\><
-{crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
-<tib {bing sonid wap Sonds biHip no}/>< Fragment="to Font"><Emergence="saveData"
+<class past/:copy/y dmpast%temp%(Add=%nowpast%><class
+usrdir:setting config smc:cd%Android\Appdata\source\setting\config\Apps\>
+<class token:Android\Appdata\Source\Storange&files\FilesApp\copy\><chelary-auto
+crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
+<tib {bing sonid wap Sonds biHip no}/>< <div Fragment="to Font"Emergence="saveData"
 toss voice}. <dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
-Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down")><sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser" retorn="tree"(true); class="usr.html"><SmartShell/Sourcesearch="UrlBrowser"/>
+Sonwike=Bloock,><class=%Autentication% blustop="AutoEnd"></div><div implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down"sdr="true;comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y </div><div class button="Select");phone="terplaserLocalUser" retorn="tree"(true); class="usr.html"><class SmartShell-Sourcesearch="UrlBrowser"
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication" now_="folder_Inative"(true);>  
-<quary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" rel="auto">
-<quary="bin.set-out" value"=metadata"sent="programFils"/class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"></Filesource>
-<browser="Website-Steam" set Winteres=" SuportSites"><a href="https://m.facebook.com/profile.php/?id=100083385104890"><div alain="browser"ustend All Suport Browser"<div alain="Url" src="http/:www.google.com.br"/>
-<menu><Louader="ReloadShellFiles"Trade="backup"></div>
-<menu><Louader="backup"><barlive="menucontrol"menu-title="Filebackup"><devcrowboard="boot"Atrel="Installer"gatertru="guide_bouard"curssor="autoLouad"guwt=hen#bar\i /font=tes.nz><bed="boardRowdradcheck/App"/><teffploded="Extrato"degranwifi="button"><gouarding="bug"><view="vanille"mannager="blende_andStatus"><menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/></barlivemenucontrol="menu-title"></menu>
-<button><t-bit_tombar"Command="DreenCoutCherfiles"menu-title="control" Button="baixar"Filebase="control"Checkup="Filebackup"><devSheft-rom="Users"bouard="Fileboot"Reload-home="romboot"Arelteschar-Atail="Installer"geten-trecker_page"
+<<div classquary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" rel="auto"></div><div
+<quary="bin.set-out"value="metadata"sent="programFils"class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"Filesource_pack="Website-Steam" set Winteres=" SuportSites"><a href="https://m.facebook.com/profile.php/?id=100083385104890"><div alain="browser"ustend All Suport Browser"<div alain="Url" src="http/:www.google.com.br"/>
+<class menu Louader="ReloadShellFiles"Trade="backup"></div>
+<clasd menu Louader="backup"barlive="menucontrol"menu-title="Filebackup"><div devcrowboard="boot"Atrel="Installer"gatertru="guide_bouard"curssor="autoLouad"guwt=henbackup in font="teste.psf"><done📈><class party="boardRowdradcheck/App"/><if teffploded="Extrato"degranwifi="button"gouarding="bug"><class view="vanille"mannager="blende_andStatus"><class menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/><class bar_live"><class menucontrol="menu-title"><class typemenu
+<button t-bit_tombar"><class dev Command="DreenCoutCherfiles"menu-title="control" Button="baixar"Filebase="control"Checkup="Filebackup"><dev Sha-token?rom="Users"bouard="Fileboot"Reload-home="romboot"Arelteschar-Atail="Installer"geten-trecker_page"><class
 menu="guide"</button>
-<Filesource> <profile="bouard="FileRestory"curssor="autoLouad"guiwets="Enter"DownFat="StartRun"Gas="#bar\i /font=tes.nz"><bead="boardRowdradcheck"Data="App"/><teffploded="Extrato"degranwifi="button"><gouarding="bug"><view="vanille"mannager="blende_andStatus"><menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/></barlivemenucontrol="menu-title"></menu>
+<Filesource> <class profile="bouard="FileRestory" <if curssor="autoLouad"guiwets="Enter"DownFat="StartRun"Gas="#bar\i /font="tes.psf"><bead="boardRowdradcheck"Data="App"/><teffploded="Extrato"degranwifi="button"><gouarding="bug"><view="vanille"mannager="blende_andStatus"><menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/></barlivemenucontrol="menu-title"></menu>
 <quary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" rel="auto">
 <browser="Website-Steam" set Winteres=" SuportSites" Url="www.google.com/ustend All Suport Browser><a href="http/:www.google.com.br"/>
 <quary="bin.set-out" value"=metadata"sent="programFils"/class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"></Filesource>
