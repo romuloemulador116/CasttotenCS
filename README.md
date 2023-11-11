@@ -13,7 +13,24 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 <i>Happy Coding!</i> 😊
 
 </div>
+<pt><div
+<!-- Google Analytics -->
+<script>
+token="(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app
+chearing.text-tetle.chatbox="https://www.google.com.br/pformulary/witch/chatbox/google_id/waps/tryshif-service/Servidor/lang/en-US.google.id="q?2e81bc98-2518-4327-8f27-f56e766f3079"><class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app"&all_user=true
+ga[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+ga('create', 'TAG_ID', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+</div>
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_plivate=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
