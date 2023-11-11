@@ -25,10 +25,8 @@ database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.
 chearing.text-tetle.chatbox="https://www.google.com.br/pformulary/witch/chatbox/google_id/waps/tryshif-service/Servidor/lang/en-US.google.id="q?2e81bc98-2518-4327-8f27-f56e766f3079"><class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app"&all_user=true
 ga[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');>
-
-<ga('create', 'TAG_ID', 'auto');
-ga('send', 'pageview');>
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'TAG_ID', 'auto');
+ga('send', 'pageview');=1l?>
 </script>
 <!-- End Google Analytics -->
 </div>
