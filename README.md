@@ -28,7 +28,7 @@ ga[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');>
 
 <ga('create', 'TAG_ID', 'auto');
-ga('send', 'pageview');
+ga('send', 'pageview');>
 </script>
 <!-- End Google Analytics -->
 </div>
