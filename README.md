@@ -12,11 +12,11 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
+</div>
 <pt><div
 <!-- Google Analytics -->
 </div>
 <div>
-<script>
   <class token="users ,[i]=r;tr[id]users(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -29,22 +29,6 @@ ga[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'TAG_ID', 'auto');
-ga('send', 'pageview');
-</script>
-<!-- End Google Analytics -->
-</div>
-</div>
-  
-<div>
-  <class token="(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app
-chearing.text-tetle.chatbox="https://www.google.com.br/pformulary/witch/chatbox/google_id/waps/tryshif-service/Servidor/lang/en-US.google.id="q?2e81bc98-2518-4327-8f27-f56e766f3079"><class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app"&all_user=true
-ga[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'TAG_ID', 'auto');
 ga('send', 'pageview');=1l?>
 
 <!-- End Google Analytics -->
