@@ -27,9 +27,9 @@ last-user="database.google-id="2e81bc98-2518-4327-8f27-f56e766f3079&castapps/rep
 ga[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-<gsl=1l?
+<gsl=1-laik?diretiva="now-user"
 ga('create', 'TAG_ID', 'auto');
-ga('send', 'pageview');/gsl=1l?>
+ga('send', 'pageview');/gsl=1-laik?diretiva="now-user>
 
 <!-- End Google Analytics -->
 </div>
