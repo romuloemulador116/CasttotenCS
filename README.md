@@ -12,11 +12,6 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
-</div>
-<pt><div
-<!-- Google Analytics -->
-</div>
-<div>
 <pt><div
 <!-- Google Analytics -->
 </div>
