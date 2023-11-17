@@ -11,7 +11,7 @@ higth_fileserver="inf_brecher-status" pluguin="blil-lang.pt-BR"ehart="sites_sour
 registe="config"sublante="serie_b.tek"span="handler"nubank=fb.client.bunerwas.depevati_link.acess">
 <div class="cont="acessing" <log="Usermamebluetool.phi"tuste="payment"azebu="sites"laferester="using_bapmugeUrl.bank"timber="status"button="empit"(open)true;
 vene=Val
-group="goupren%linkvedorbloock%generate="Auto"(fause);BP.texte></log>div>
+group="goupren%linkvedorbloock%generate="Auto"(fause);BP.texte></log>
 <div>
 <class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app
 chearing.text-tetle.chatbox="https://www.google.com.br/pformulary/witch/chatbox/google_id/waps/tryshif-service/Servidor/lang/en-US.google.id="q?2e81bc98-2518-4327-8f27-f56e766f3079"><class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app"&all_user=true>
