@@ -16,7 +16,7 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
 
 </br>
 </br>
@@ -46,11 +46,11 @@ BACKUP
 usrdir:setting config smc:cd%Android\Appdata\source\setting\config\Apps\>
 <class token:Android\Appdata\Source\Storange&files\FilesApp\copy\><chelary-auto
 crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
-<tib {bing sonid wap Sonds biHip no}/>< <div Fragment="to Font"Emergence="saveData"
+<tib {bing sonid wap Sonds biHip no}/><div Fragment="to Font"Emergence="saveData"
 toss voice}. <dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
 Sonwike=Bloock,><class=%Autentication% blustop="AutoEnd"></div><div implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down"sdr="true;comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y </div><div class button="Select");phone="terplaserLocalUser" retorn="tree"(true); class="usr.html"><class SmartShell-Sourcesearch="UrlBrowser"
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication" now_="folder_Inative"(true);>  
-<<div classquary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" rel="auto"></div><div
+<div classquary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" rel="auto"></div><div
 <quary="bin.set-out"value="metadata"sent="programFils"class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"Filesource_pack="Website-Steam" set Winteres=" SuportSites"><a href="https://m.facebook.com/profile.php/?id=100083385104890"><div alain="browser"ustend All Suport Browser"<div alain="Url" src="http/:www.google.com.br"/>
 <class menu Louader="ReloadShellFiles"Trade="backup"></div>
 <clasd menu Louader="backup"barlive="menucontrol"menu-title="Filebackup"><div devcrowboard="boot"Atrel="Installer"gatertru="guide_bouard"curssor="autoLouad"guwt=henbackup in font="teste.psf"><done📈><class party="boardRowdradcheck/App"/><if teffploded="Extrato"degranwifi="button"gouarding="bug"><class view="vanille"mannager="blende_andStatus"><class menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/><class bar_live"><class menucontrol="menu-title"><class typemenu
