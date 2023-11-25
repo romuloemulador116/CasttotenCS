@@ -9,7 +9,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 </head>
 <body>
-  ithub.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
+  RaukPod#github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1</h2>
 </div>
 
 <div align="center">
