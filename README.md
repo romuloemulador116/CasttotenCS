@@ -1,6 +1,15 @@
+<html>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8" />
+<version="1.0" encoding="UTF-8">
+<head>
 #AI  RE:ADS-Shell-AI_APK
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <href src="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+</head>
+<body>
+  ithub.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
 </div>
 
 <div align="center">
@@ -8,38 +17,28 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
-or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
+or <a href="mailto:dwgbjpro@gmail.com">
+
+<b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
 
 </div>
 
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
+<td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
+<p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$"value="payment="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean bether="Assistente"><div class="dados"giro-capital="money-contribuição"><a href="https://www.facebook.com"><dir:goto="universal UserID:pack"><div class="trin-url="ruble mailto:adelicia10@gmail.com"></div><div class="dados" cont="Afiliados-sence-alias"bass="cashback"></div>
+<div content="vantagens-selecionar $pay_bankDashelizer"seu-factura="{gestion forbiden reren="submit}"></p>
+<p><id><a href="https://www.facebook.com/profile.php?id=100001414089987"target="blank" width="30></id>
+<id><a href="adelicia10@gmail.com"><id="task real porcent#ariel not foud"></id></div></p><div>
+<a href="https://www.facebook.com/profile.php?id=100083385104890" mailto:adelicia10@gmail.com></button> 
+<embed><class="bousor-feed" my cont="A"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
+<buttom class type="button button1">ENTER No Facebook<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
 
 </br>
 </br>
 <i>Random development custon for you! (create your submit here ↓)</i><br>
 
 TABEL SITES
----
-<html>
-<!DOCTYPE html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<meta charset="utf-8" />
-<version="1.0" encoding="UTF-8">
-<head>
-BACKUP
-</head>
-<body>
-<td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
-<p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$"value="payment="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean bether="Assistente"><div class="dados"giro-capital="money-contribuição"><a href="https://www.facebook.com"><dir:goto="universal UserID:pack"><div class="trin-url="ruble mailto:adelicia10@gmail.com"></div><div class="dados" cont="Afiliados-sence-alias"bass="cashback"></div>
-<div content="vantagens-selecionar $pay_bankDashelizer"seu-factura="{gestion forbiden reren="submit}"></p>
-<p><id><a href="https://www.facebook.com/profile.php?id=100001414089987"target="blank" width="30></id>
-<id><a href="adelicia10@gmail.com"><id="task real porcent#ariel not foud"></id></div></p><div>
-<buttom class type="button button1">ENTER No Facebook<a href="https://www.facebook.com/profile.php?id=100083385104890" mailto:adelicia10@gmail.com></button> 
-<embed><class="bousor-feed" my cont="A"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
 <div>
 </div>
 <class past/:copy/y dmpast%temp%(Add=%nowpast%><class
