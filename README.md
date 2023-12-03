@@ -17,9 +17,9 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
-or <a href="mailto:dwgbjpro@gmail.com">
+or <button type="button button1>email<a href="mailto:dwgbjpro@gmail.com">
 
-<b>email</b></a> me.
+<b></b></a> me.
 
 <i>Happy Coding!</i> 😊
 
@@ -29,11 +29,12 @@ or <a href="mailto:dwgbjpro@gmail.com">
 <p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$"value="payment="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean bether="Assistente"><div class="dados"giro-capital="money-contribuição"><a href="https://m.facebook.com/story.php?story_fbid=pfbid0MN1VeovjkTDDrdSSYHp6wCYwv3GNsNyuds5g6AChGW6V6igq7QDU5ZfFwweTUzJzl&id=100001414089987&mibextid=Nif5oz">
 <goto="universal UserID:pack"><div class="trin-url="ruble mailto:adelicia10@gmail.com"></div><div class="dados" cont="Afiliados-sence-alias"bass="cashback"></div>
 <div content="vantagens-selecionar $pay_bankDashelizer"seu-factura="{gestion forbiden reren="submit}"></p>
-<p><id><"target="blank" width="30></id>
+<p><id>
 <id><a href="adelicia10@gmail.com"><id="task real porcent#ariel not foud"></id></div></p><div>
 <a mailto:adelicia10@gmail.com></button> 
-<embed><class="bousor-feed" my cont="Afre"><div embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
-<buttom class type="button button1">ENTER<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
+<embed><class="bousor-feed" my cont="Afre"></id><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
+<alain="center"
+<buttom type="button button1">ENTER<img src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
 
 </br>
 </br>
