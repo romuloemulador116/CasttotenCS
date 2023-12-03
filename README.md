@@ -17,14 +17,10 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
-or <button type="button button1>email<a href="mailto:dwgbjpro@gmail.com">
-
+or <a href="mailto:dwgbjpro@gmail.com">
 <b></b></a> me.
-
 <i>Happy Coding!</i> 😊
-
 </div>
-
 <td><tr><div waskleshaBank="(Submit-recisory todas price joy payment trench=/by tribute Agost=[2023/agend-secund target="blank"><src="Sundtime-Data-time=[NT:HS,09-2023]-hs_0001 dev your guide:snf-Aouthor"><get-time="%💯%"></tr></td>  
 <p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$"value="payment="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean bether="Assistente"><div class="dados"giro-capital="money-contribuição"><a href="https://m.facebook.com/story.php?story_fbid=pfbid0MN1VeovjkTDDrdSSYHp6wCYwv3GNsNyuds5g6AChGW6V6igq7QDU5ZfFwweTUzJzl&id=100001414089987&mibextid=Nif5oz">
 <goto="universal UserID:pack"><div class="trin-url="ruble mailto:adelicia10@gmail.com"></div><div class="dados" cont="Afiliados-sence-alias"bass="cashback"></div>
