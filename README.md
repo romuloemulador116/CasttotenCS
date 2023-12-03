@@ -25,14 +25,15 @@ or <a href="mailto:dwgbjpro@gmail.com">
 
 </div>
 
-<td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
-<p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$"value="payment="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean bether="Assistente"><div class="dados"giro-capital="money-contribuição"><a href="https://www.facebook.com"><dir:goto="universal UserID:pack"><div class="trin-url="ruble mailto:adelicia10@gmail.com"></div><div class="dados" cont="Afiliados-sence-alias"bass="cashback"></div>
+<td><tr><div waskleshaBank="(Submit-recisory todas price joy payment trench=/by tribute Agost=[2023/agend-secund target="blank"><src="Sundtime-Data-time=[NT:HS,09-2023]-hs_0001 dev your guide:snf-Aouthor"><get-time="%💯%"></tr></td>  
+<p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$"value="payment="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean bether="Assistente"><div class="dados"giro-capital="money-contribuição"><a href="https://m.facebook.com/story.php?story_fbid=pfbid0MN1VeovjkTDDrdSSYHp6wCYwv3GNsNyuds5g6AChGW6V6igq7QDU5ZfFwweTUzJzl&id=100001414089987&mibextid=Nif5oz">
+<goto="universal UserID:pack"><div class="trin-url="ruble mailto:adelicia10@gmail.com"></div><div class="dados" cont="Afiliados-sence-alias"bass="cashback"></div>
 <div content="vantagens-selecionar $pay_bankDashelizer"seu-factura="{gestion forbiden reren="submit}"></p>
-<p><id><a href="https://www.facebook.com/profile.php?id=100001414089987"target="blank" width="30></id>
+<p><id><"target="blank" width="30></id>
 <id><a href="adelicia10@gmail.com"><id="task real porcent#ariel not foud"></id></div></p><div>
-<a href="https://www.facebook.com/profile.php?id=100083385104890" mailto:adelicia10@gmail.com></button> 
-<embed><class="bousor-feed" my cont="A"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
-<buttom class type="button button1">ENTER No Facebook<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
+<a mailto:adelicia10@gmail.com></button> 
+<embed><class="bousor-feed" my cont="Afre"><div embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
+<buttom class type="button button1">ENTER<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
 
 </br>
 </br>
