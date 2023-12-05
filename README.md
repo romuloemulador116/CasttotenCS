@@ -1,6 +1,15 @@
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="utf-8" />
+<version="1.0" encoding="UTF-8">
+<head>
 #AI  RE:ADS-Shell-AI_APK
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <href src="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+</head>
+<body>
+RaukPod#github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1</h2>
+</div>
+  <a href src="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
 </div>
 <div align="center">
 <class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app
