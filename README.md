@@ -20,19 +20,6 @@ Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G
 or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 
 <i>Happy Coding!</i> 😊
-
-</div>
-<pt><div
-
-
-  
-or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
-
-<i>Happy Coding!</i> 😊
-
-</div>
-<pt><div
-</div>
 <div>
   <class token="users ,[i]=r;tr[id]users(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
