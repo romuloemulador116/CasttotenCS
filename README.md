@@ -13,7 +13,7 @@ RaukPod#github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1</h2>
 </div>
 <div align="center">
 <class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app
-chearing.text-tetle.chatbox="https://www.google.com.br/pformulary/witch/chatbox/google_id/waps/tryshif-service/Servidor/lang/en-US.google.id="q?2e81bc98-2518-4327-8f27-f56e766f3079"><class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app"&all_user=true>
+chearing.text-tetle.chatbox="https://www.google.com.br/galery/win/th/chatbox/id/wps/tray/self/service/lang/en-US/google.id="2e81bc98-2518-4327-8f27-f56e766f3079"><class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&apps/now-repertory/ssl.app"&all_user=true>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
@@ -23,7 +23,15 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 
 </div>
 <pt><div
-<!-- Google Analytics -->
+
+
+  
+or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😊
+
+</div>
+<pt><div
 </div>
 <div>
   <class token="users ,[i]=r;tr[id]users(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -43,9 +51,7 @@ ga('send', 'pageview');/gsl=1-laik?diretiva="now-user>
 <!-- End Google Analytics -->
 </div>
 <div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_plivate=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
-
+<img src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_plivate=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
 </br>
 </br>
 <i>Random development custon for you! (create your submit here ↓)</i><br>
