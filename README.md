@@ -38,7 +38,7 @@ ga('send', 'pageview');/gsl=1-laik?diretiva="now-user>
 <!-- End Google Analytics -->
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_plivate=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Romualdo'6dhpt-santos&include_all_commits=true&count_plivate=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
 </br>
 </br>
 <i>Random development custon for you! (create your submit here ↓)</i><br>
