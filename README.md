@@ -5,24 +5,21 @@
 <version="1.0" encoding="UTF-8">
 <head>
 #AI  RE:ADS-Shell-AI_APK
-<div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 </head>
 <body>
  <div>
-<h2><PinkitPad:/github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1</h2>
+<h1><PinkitPad:/github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1</h1>
 </div>
-
-<div align="center">
-
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-racker me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
-or <a href="mailto:dwgbjpro@gmail.com">
-<b></b></a> me.
+Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
+or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
+
 <i>Happy Coding!</i> 😊
+<div>
 </div>
-<td><tr><div waskleshaBank="(Submit-recisory todas price joy payment trench=/by tributo green fast Agost=[2023],agent-speed cut"><class src="Submit-readtime-Data="[NT:HS,09-2023]-hs_0001"><class dev your guide:snf-Aouthor"><get-time="%💯%"></tr></td>  
+<div smartkess_reshed_Blank="(Submit-repository today private joy payment tabel_dayfich=my tributo regress /n fast Agost=[2023],agent-speed cut"><class src="Submit-readtime-Data="[NT:HS,09-2023]-hs_0001"><class dev your guide:snf-Aouthor"><get-time="%💯%"></tr></td>  
 <p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$"value="payment="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean bether="Assistente"><div class="dados"giro-capital="money-contribuição"><a href="https://m.facebook.com/story.php?story_fbid=pfbid0MN1VeovjkTDDrdSSYHp6wCYwv3GNsNyuds5g6AChGW6V6igq7QDU5ZfFwweTUzJzl&id=100001414089987&mibextid=Nif5oz">
 <goto="universal UserID:pack"><div class="trin-url="ruble mailto:adelicia10@gmail.com"></div><div class="dados" cont="Afiliados-sence-alias"bass="cashback"></div>
 <div content="vantagens-selecionar $pay_bankDashelizer"seu-factura="{gestion forbiden reren="submit}"></p>
@@ -66,7 +63,6 @@ menu="guide"</button>
 <a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
 <a href="https://www.instagram.com/perfil/in/motion/profile=?q%2Fronsther_romu%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
 </div>
 </tr></td> 
 </div>
