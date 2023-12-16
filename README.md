@@ -1,16 +1,18 @@
-<html>
-<!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <meta charset="utf-8" />
 <version="1.0" encoding="UTF-8">
 <head>
 #AI  RE:ADS-Shell-AI_APK
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 </head>
 <body>
- <div>
-<h1><PinkitPad:/github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1</h1>
+RaukPod#github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1</h1>
 </div>
+  <a href src="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
+</div>
+<div align="center">
+<class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app
+chearing.text-tetle.chatbox="https://www.google.com.br/galery/win/th/chatbox/id/wps/tray/self/service/lang/en-US/google.id="2e81bc98-2518-4327-8f27-f56e766f3079"><class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&apps/now-repertory/ssl.app"&all_user=true>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
