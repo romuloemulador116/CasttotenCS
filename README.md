@@ -16,7 +16,7 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_plivate=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github Stats">
 
 </br>
 </br>
@@ -34,21 +34,21 @@ BACKUP
 </head>
 <body>
 <td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
-<p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$"value="payment="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean bether="Assistente"><div class="dados"giro-capital="money-contribuição"><a href="https://www.facebook.com"><dir:goto="universal UserID:pack"><div class="trin-url="ruble mailto:adelicia10@gmail.com"></div><div class="dados" cont="Afiliados-sence-alias"bass="cashback"></div>
-<div content="vantagens-selecionar $pay_bankDashelizer"seu-factura="{gestion forbiden reren="submit}"></p>
+<p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$" src="pagar="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean" bether=" Assistente"><class="dados"giro-capital ="money-contribuição"><a href="https://www.facebook.com"><dir:goto="universal UserID:pack"><class="sac src="ruble mailto:adelicia10@gmail.com"><class="dados" cont="Afiliados-alias"bask-caixa="cashback">
+<div content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit"></p>
 <p><id><a href="https://www.facebook.com/profile.php?id=100001414089987"target="blank" width="30></id>
-<id><a href="adelicia10@gmail.com"><id="task real porcent#ariel not foud"></id></div></p><div>
-<mailto:adelicia10@gmail.com></button> 
-<embed><class="bousor-feed" my cont="A"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
+<id><a href="" src="adelicia10@gmail.com"><id="task real porcent#ariel not foud"></id></div></p>
+<buttom class type="button button1">ENTER no Facebook<mailto:adelicia10@gmail.com></button> 
+<embed><class="bouso-free my cont"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
 <div>
 </div>
 <class past/:copy/y dmpast%temp%(Add=%nowpast%><class
 usrdir:setting config smc:cd%Android\Appdata\source\setting\config\Apps\>
 <class token:Android\Appdata\Source\Storange&files\FilesApp\copy\><chelary-auto
-crowVoiceDir]¿?=1/stop.../*All-Slug/base="local"><span
-tilib="{bing sonid wap Sonds biHip no}" Fragment="to Font"Emergence="saveData"
-toss voice}. dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
-Sonwike=Bloock,><class=%Autentication% blustop="AutoEnd"></div><div implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down"sdr="true;comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y </div><div class button="Select");phone="terplaserLocalUser" retorn="tree"(true); class="usr.html"><class SmartShell-Sourcesearch="UrlBrowser"
+crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
+<tib {bing sonid wap Sonds biHip no}/><div Fragment="to Font"Emergence="saveData"
+toss voice}. <dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
+Sonwike=Bloock,><class=%Autentication% blustop="AutoEnd" <div implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down"sdr="true;comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y </div><div class button="Select");phone="terplaserLocalUser" retorn="tree"(true); class="usr.html"><class SmartShell-Sourcesearch="UrlBrowser"
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication" now_="folder_Inative"(true);>  
 <div classquary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" rel="auto"></div><div
 <quary="bin.set-out"value="metadata"sent="programFils"class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"Filesource_pack="Website-Steam" set Winteres=" SuportSites"><a href="https://m.facebook.com/profile.php/?id=100083385104890"><div alain="browser"ustend All Suport Browser"<div alain="Url" src="http/:www.google.com.br"/>
