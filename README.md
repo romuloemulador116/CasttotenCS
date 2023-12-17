@@ -30,7 +30,7 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 <a mailto:adelicia10@gmail.com></button> 
 <embed><class="bousor-feed" my cont="Afre"></id><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
 <alain="center"
-<buttom type="button button1">ENTER<img src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
+<buttom type="button button1">ENTER<img src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github Stats">
 
 </br>
 </br>
