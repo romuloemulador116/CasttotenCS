@@ -34,13 +34,12 @@ BACKUP
 </head>
 <body>
 <td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
-<info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><pin="submit -g tss cont="$" pagar="mailto:dwgbjpro@gmail.com" Afiliados="Alisean"bether=" Assistente"giro-capital ="money-contribuição"><a href="https://www.facebook.com" {
-<goto universal UserID:pack ruble mailto:adelicia10@gmail.com cont="Afiliados-alias"bask-caixa="cashback">
-<a content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit}"></a>
-<id><a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id>
-<id><button class type="button button1">ENTER</button></id>
-<button class type="button button1"><mailto:adelicia10@gmail.com>no Facebook<Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
-<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank" src=""scrollins="pixel"weshdit_tabel="11"></embed>
+<p><info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><metada="pin"><print="submit -g teste="java.Turnedsac.runtime.status.css"><a cont="$" src="pagar="mailto:dwgbjpro@gmail.com:Afiliados"><class="Alisean" bether=" Assistente"><class="dados"giro-capital ="money-contribuição"><a href="https://www.facebook.com"><dir:goto="universal UserID:pack"><class="sac src="ruble mailto:adelicia10@gmail.com"><class="dados" cont="Afiliados-alias"bask-caixa="cashback">
+<div content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit"></p>
+</div></div><id><a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id></div></p>
+<button class type="button button1">ENTER</button><div>
+<button class type="button button1"><mailto:adelicia10@gmail.com>no Facebook<Button type="button button1"></div><a href="https://www.facebook.com/profile.php?id=100083385104890"></button> 
+<embed><class="bouso-free my cont"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
 <div>
 </div>
 <past/:copy/y dmpast%temp%(Add=%nowpast%
@@ -53,7 +52,7 @@ Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication" now_="folder_Inative"(true);>  
 <quary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" rel="auto">
 <quary="bin.set-out" value"=metadata"sent="programFils"/class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"></Filesource>
-<browser="Website-Steam" set Winteres=" SuportSites" Url="https://www.facebook.com/profile.php?id=100083385104890"target="blank" src=""><div alain="browser"ustend All Suport Browser"><target_blank"><fref src="http/:www.google.com.br"/>
+<browser="Website-Steam" set Winteres=" SuportSites"><a href="https://m.facebook.com/profile.php/?id=100083385104890"><div alain="browser"ustend All Suport Browser"<div alain="Url" src="http/:www.google.com.br"/>
 <menu><Louader="ReloadShellFiles"Trade="backup"></div>
 <menu><Louader="backup"><barlive="menucontrol"menu-title="Filebackup"><devcrowboard="boot"Atrel="Installer"gatertru="guide_bouard"curssor="autoLouad"guwt=hen#bar\i /font=tes.nz><bed="boardRowdradcheck/App"/><teffploded="Extrato"degranwifi="button"><gouarding="bug"><view="vanille"mannager="blende_andStatus"><menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/></barlivemenucontrol="menu-title"></menu>
 <button><t-bit_tombar"Command="DreenCoutCherfiles"menu-title="control" Button="baixar"Filebase="control"Checkup="Filebackup"><devSheft-rom="Users"bouard="Fileboot"Reload-home="romboot"Arelteschar-Atail="Installer"geten-trecker_page"
