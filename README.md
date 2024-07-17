@@ -2,9 +2,9 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <href src="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
 </div>
-
 <div align="center">
-
+<class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app
+chearing.text-tetle.chatbox="https://www.google.com.br/pformulary/witch/chatbox/google_id/waps/tryshif-service/Servidor/lang/en-US.google.id="q?2e81bc98-2518-4327-8f27-f56e766f3079"><class database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app"&all_user=true>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1"><b>here</b></a><br>
@@ -13,10 +13,29 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 <i>Happy Coding!</i> 😊
 
 </div>
+<pt><div
+<!-- Google Analytics -->
+</div>
+<div>
+  <class token="users ,[i]=r;tr[id]users(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+database.google.id="2e81bc98-2518-4327-8f27-f56e766f3079&laps.now-repertory-ssl.app
+chearing.text-tetle.chatbox="https://www.google.com.br/Google_Links/Clouad/Active/Services/Trial/pt-BR/google.id/2e81bc98-2518-4327-8f27-f56e766f3079"),
+last-user="database.google-id="2e81bc98-2518-4327-8f27-f56e766f3079&castapps/repositry/voutex.app"&include_all_users=true),
+ga[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<gsl=1-laik?diretiva="now-user"
+ga('create', 'TAG_ID', 'auto');
+ga('send', 'pageview');/gsl=1-laik?diretiva="now-user>
 
+<!-- End Google Analytics -->
+</div>
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_plivate=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_plivate=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github_Stats">
 
 </br>
 </br>
@@ -38,7 +57,7 @@ BACKUP
 <div content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit"></p>
 <p><id><a href="https://www.facebook.com/profile.php?id=100001414089987"target="blank" width="30></id>
 <id><a href="" src="adelicia10@gmail.com"><id="task real porcent#ariel not foud"></id></div></p>
-<buttom class type="button button1">ENTER no Facebook<mailto:adelicia10@gmail.com></button> 
+<buttom class type="button button1"><a href="https://www.facebook.com/profile.php?id=100083385104890">ENTER no Facebook<mailto:adelicia10@gmail.com></button> 
 <embed><class="bouso-free my cont"><div class <a href="https://www.facebook.com/profile.php?id=100083385104890" target="blank"><embed src=""scrollins="pixel"weshdit_tabel="11"width="30"></embed>
 <div>
 </div>
