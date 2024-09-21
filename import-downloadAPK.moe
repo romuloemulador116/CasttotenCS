@@ -1,0 +1,57 @@
+#@title 3. Download the APK directly or via Catbox.moe or file.io
+#@markdown If you do this on a **phone**, choose **[.apk Direct Download]** for direct .apk download. \
+#@markdown If you do this on a **computer**, choose **[Upload to file.io ...]** and it will upload it to file.io and show a QR code which will link you to the download page. \
+#@markdown \
+#@markdown Of course you can do [.apk Direct Download] on your computer and transfer the .apk file manually to your phone.
+dl = '[.apk Direct Download]' #@param ["[.apk Direct Download]", "[Upload to Catbox.moe and create and show a QR code]", "[Upload to file.io and create and show QR code]"]
+
+import os
+
+if not os.path.exists("/content/Infinity.apk"):
+  !mv /content/Infinity-For-Reddit/app/build/outputs/apk/release/app*.apk /content/Infinity.apk
+
+
+if dl == "[.apk Direct Download]":
+  from google.colab import files
+  files.download('/content/Infinity.apk')
+else:
+  !pip install requests pyqrcode pypng
+  from IPython.display import clear_output, Image, display
+  import pyqrcode
+  import requests
+
+  clear_output()
+  dl_url = None
+
+  # Set Upload URL
+  if "Catbox" in dl:
+    url = "https://litterbox.catbox.moe/resources/internals/api.php"
+    files = {
+      'fileToUpload': ('Infinity.apk', open('/content/Infinity.apk', 'rb')),
+      'time': (None, '12h'),
+      'reqtype': (None, 'fileupload')
+    }
+    dl_url = requests.post(url, files=files).text
+  else:
+    url = 'https://file.io'
+
+    # Upload
+    with open("/content/Infinity.apk", 'rb') as file:
+      files = {'file': file}
+      response = requests.post(url, files=files).json()
+
+    ## Check if upload failed
+    if response["success"]:
+      dl_url = response["link"]
+
+  if dl_url is None:
+    print("Error uploading. Use another download method.")
+
+  else:
+    # Generate and display QR code
+    qr = pyqrcode.create(dl_url)
+    img = "myqr.png"
+    qr.png(img, scale=10)
+    Image(img)
+    print("Download URL:", dl_url)
+    display(Image(img))
