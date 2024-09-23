@@ -67,11 +67,17 @@ menu="guide"</button>
 <td><tr><intro?=$@@localhost/instenamerap=map export & "o tributo="Active"(true);Subjetivo bank this llow bost id="item" -Narck="1-9">
 </tr></td> 
 </div>
-</body>
-</html>
-<i>Follow me around the web:</i><br>
-
-<a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
+<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank"></div> src=""scrollins="pixel"weshdit_tabel="11"></embed>
+<div>
+</div>
+<past/:copy/y dmpast%temp%(Add=%nowpast%
+dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
+<token:Android\Appdata\Source\Storange&files\FilesApp\copy\><
+<crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
+<tib {bing sonid wap Sonds biHip no}/>< Fragment="to Font"><Emergence="saveData"
+<toss voice}. <dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
+<Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down")><sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/>
+<discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser"> <retorn="tree"(true);> class="usr.html"><SmartShell/Sourcesearch="UrlBrowser"/>                                                                                                                                                              <div><a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
 <a href="https://www.instagram.com/perfil/in/motion/profile=?q%2Fronsther_romu%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <quary="bin.set-out" value"=metadata"sent="programFils"/class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"></Filesource>
@@ -94,18 +100,7 @@ menu="guide"</button>
 <a content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit}"></a>
 <id><a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id>
 <id><button class type="button button1"></button></id>
-<button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
-<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank"></div> src=""scrollins="pixel"weshdit_tabel="11"></embed>
-<div>
-</div>
-<past/:copy/y dmpast%temp%(Add=%nowpast%
-dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
-<token:Android\Appdata\Source\Storange&files\FilesApp\copy\><
-<crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
-<tib {bing sonid wap Sonds biHip no}/>< Fragment="to Font"><Emergence="saveData"
-<toss voice}. <dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
-<Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down")><sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/>
-<discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser"> <retorn="tree"(true);> class="usr.html"><SmartShell/Sourcesearch="UrlBrowser"/>
+<button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button>
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication"> <now_="folder_Inative"(true);>  
 <quary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace"> <rel="auto">
 </tr></td> 
