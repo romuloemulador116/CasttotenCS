@@ -75,7 +75,8 @@ menu="guide"</button>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
- <svg
+ <div> 
+<svg
         width="300"
         height="165"
         viewBox="0 0 300 165"
@@ -95,8 +96,7 @@ menu="guide"</button>
           @supports(-moz-appearance: auto) {
             /* Selector detects Firefox */
             .header { font-size: 15.5px; }
-          }
-          
+          }         
     @keyframes slideInAnimation {
       from {
         width: 0;
@@ -134,10 +134,7 @@ menu="guide"</button>
     }
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    
-
-          
+    }          
       /* Animations */
       @keyframes scaleInAnimation {
         from {
@@ -154,13 +151,8 @@ menu="guide"</button>
         to {
           opacity: 1;
         }
-      }
-    
-          
+      }          
         </style>
-
-        
-
         <rect
           data-testid="card-bg"
           x="0.5"
@@ -171,9 +163,7 @@ menu="guide"</button>
           width="299"
           fill="#fffefe"
           stroke-opacity="1"
-        />
-
-        
+        />        
       <g
         data-testid="card-title"
         transform="translate(25, 35)"
@@ -187,20 +177,14 @@ menu="guide"</button>
       >Most Used Languages</text>
     </g>
       </g>
-    
-
         <g
           data-testid="main-card-body"
           transform="translate(0, 55)"
-        >
-          
+        >        
     <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
+        <mask id="rect-mask">
           <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-        </mask>
-        
+        </mask>    
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -210,7 +194,6 @@ menu="guide"</button>
           height="8"
           fill="#b07219"
         />
-      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -219,8 +202,7 @@ menu="guide"</button>
           width="11.43"
           height="8"
           fill="#5686a5"
-        />
-      
+        />      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -229,8 +211,7 @@ menu="guide"</button>
           width="10.2"
           height="8"
           fill="#3572A5"
-        />
-      
+        />      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -239,8 +220,7 @@ menu="guide"</button>
           width="10.2"
           height="8"
           fill="#e34c26"
-        />
-      
+        />     
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -249,8 +229,7 @@ menu="guide"</button>
           width="10.19"
           height="8"
           fill="#f1e05a"
-        />
-      
+        />      
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
@@ -260,8 +239,6 @@ menu="guide"</button>
           height="8"
           fill="#563d7c"
         />
-      
-      
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
@@ -306,14 +283,12 @@ menu="guide"</button>
       </text>
     </g>
   </g></g>
-    </g>
-  
+    </g>  
     </svg>
-  
         </g>
       </svg>
-/   
-
+/   </div>
+<div>
       <svg
         width="467"
         height="195"
@@ -334,8 +309,7 @@ menu="guide"</button>
           @supports(-moz-appearance: auto) {
             /* Selector detects Firefox */
             .header { font-size: 15.5px; }
-          }
-          
+          }          
     .stat {
       font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
     }
@@ -356,15 +330,13 @@ menu="guide"</button>
     }
     .rank-percentile-text {
       font-size: 16px;
-    }
-    
+    }    
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
       fill: #4c71f2;
       display: block;
     }
-
     .rank-circle-rim {
       stroke: #2f80ed;
       fill: none;
@@ -381,8 +353,7 @@ menu="guide"</button>
       transform-origin: -10px 8px;
       transform: rotate(-90deg);
       animation: rankAnimation 1s forwards ease-in-out;
-    }
-    
+    }    
     @keyframes rankAnimation {
       from {
         stroke-dashoffset: 251.32741228718345;
@@ -390,11 +361,7 @@ menu="guide"</button>
       to {
         stroke-dashoffset: 144.88788936745175;
       }
-    }
-  
-  
-
-          
+    }          
       /* Animations */
       @keyframes scaleInAnimation {
         from {
@@ -411,13 +378,8 @@ menu="guide"</button>
         to {
           opacity: 1;
         }
-      }
-    
-          
+      }          
         </style>
-
-        
-
         <rect
           data-testid="card-bg"
           x="0.5"
@@ -428,9 +390,7 @@ menu="guide"</button>
           width="466"
           fill="#fffefe"
           stroke-opacity="1"
-        />
-
-        
+        />        
       <g
         data-testid="card-title"
         transform="translate(25, 35)"
@@ -444,33 +404,26 @@ menu="guide"</button>
       >TypicalModMaker's GitHub Stats</text>
     </g>
       </g>
-    
-
         <g
           data-testid="main-card-body"
           transform="translate(0, 55)"
-        >
-          
+        >          
     <g data-testid="rank-circle"
           transform="translate(390.5, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
-        <g class="rank-text">
-          
+        <g class="rank-text">          
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
           B
-        </text>
-      
+        </text>      
         </g>
       </g>
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
-      
+    <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">      
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
       <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
     </svg>
-  
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
@@ -481,11 +434,9 @@ menu="guide"</button>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
-      
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
       <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
-    </svg>
-  
+    </svg>  
       <text class="stat  bold" x="25" y="12.5">Total Commits (2024):</text>
       <text
         class="stat  bold"
@@ -496,11 +447,9 @@ menu="guide"</button>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
-      
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
       <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-    </svg>
-  
+    </svg>  
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
@@ -510,12 +459,10 @@ menu="guide"</button>
       >29</text>
     </g>
   </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
-      
+    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">      
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
       <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
-    </svg>
-  
+    </svg>  
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
@@ -525,12 +472,10 @@ menu="guide"</button>
       >17</text>
     </g>
   </g><g transform="translate(0, 100)">
-    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      
+    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">      
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
       <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-    </svg>
-  
+    </svg>  
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
@@ -541,10 +486,10 @@ menu="guide"</button>
     </g>
   </g>
     </svg>
-  
         </g>
       </svg>
-/     
+/ </div>
+<div>    
 <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
                 style='isolation: isolate' viewBox='0 0 495 195' width='495px' height='195px' direction='ltr'>
         <style>
@@ -565,8 +510,7 @@ menu="guide"</button>
             <mask id='mask_out_ring_behind_fire'>
                 <rect width='495' height='195' fill='white'/>
                 <ellipse id='mask-ellipse' cx='247.5' cy='32' rx='13' ry='18' fill='black'/>
-            </mask>
-            
+            </mask>            
         </defs>
         <g clip-path='url(#outer_rectangle)'>
             <g style='isolation: isolate'>
@@ -583,14 +527,12 @@ menu="guide"</button>
                         540
                     </text>
                 </g>
-
                 <!-- Total Contributions label -->
                 <g transform='translate(82.5, 84)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.7s'>
                         Total Contributions
                     </text>
                 </g>
-
                 <!-- Total Contributions range -->
                 <g transform='translate(82.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#464646' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.8s'>
@@ -605,21 +547,18 @@ menu="guide"</button>
                         0
                     </text>
                 </g>
-
                 <!-- Current Streak label -->
                 <g transform='translate(247.5, 108)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FB8C00' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
                         Current Streak
                     </text>
                 </g>
-
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#464646' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
                         Sep 23
                     </text>
                 </g>
-
                 <!-- Ring around number -->
                 <g mask='url(#mask_out_ring_behind_fire)'>
                     <circle cx='247.5' cy='71' r='40' fill='none' stroke='#FB8C00' stroke-width='5' style='opacity: 0; animation: fadein 0.5s linear forwards 0.4s'></circle>
@@ -629,7 +568,6 @@ menu="guide"</button>
                     <path d='M -12 -0.5 L 15 -0.5 L 15 23.5 L -12 23.5 L -12 -0.5 Z' fill='none'/>
                     <path d='M 1.5 0.67 C 1.5 0.67 2.24 3.32 2.24 5.47 C 2.24 7.53 0.89 9.2 -1.17 9.2 C -3.23 9.2 -4.79 7.53 -4.79 5.47 L -4.76 5.11 C -6.78 7.51 -8 10.62 -8 13.99 C -8 18.41 -4.42 22 0 22 C 4.42 22 8 18.41 8 13.99 C 8 8.6 5.41 3.79 1.5 0.67 Z M -0.29 19 C -2.07 19 -3.51 17.6 -3.51 15.86 C -3.51 14.24 -2.46 13.1 -0.7 12.74 C 1.07 12.38 2.9 11.53 3.92 10.16 C 4.31 11.45 4.51 12.81 4.51 14.2 C 4.51 16.85 2.36 19 -0.29 19 Z' fill='#FB8C00' stroke-opacity='0'/>
                 </g>
-
             </g>
             <g style='isolation: isolate'>
                 <!-- Longest Streak big number -->
@@ -638,14 +576,12 @@ menu="guide"</button>
                         8
                     </text>
                 </g>
-
                 <!-- Longest Streak label -->
                 <g transform='translate(412.5, 84)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.3s'>
                         Longest Streak
                     </text>
                 </g>
-
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#464646' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
@@ -656,7 +592,5 @@ menu="guide"</button>
             
         </g>
     </svg>
-
-    
-
 </div>
+    
