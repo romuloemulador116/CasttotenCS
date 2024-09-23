@@ -42,7 +42,7 @@ BACKUP
 <id><a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id>
 <id><button class type="button button1">ENTER</button></id>
 <button class type="button button1"><mailto:adelicia10@gmail.com>no Facebook<Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
-<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank" src=""scrollins="pixel"weshdit_tabel="11"></embed>
+<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank" src="scrollins"pixel="null"weshdit_tabel="9"></embed>
 <div>
 </div>
 <past/:copy/y dmpast%temp%(Add=%nowpast%
@@ -53,7 +53,6 @@ dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
 toss voice}. <dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
 Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down")><sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser" retorn="tree"(true); class="usr.html"><SmartShell/Sourcesearch="UrlBrowser"/>
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication" now_="folder_Inative"(true);>  
-<quary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" rel="auto">
 <quary="bin.set-out" value"=metadata"sent="programFils"/class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"></Filesource>
 <browser="Website-Steam" set Winteres=" SuportSites" Url="https://www.facebook.com/profile.php?id=100083385104890"target="blank" src=""><div alain="browser"ustend All Suport Browser"><target_blank"><fref src="http/:www.google.com.br"/>
 <menu><Louader="ReloadShellFiles"Trade="backup"></div>
