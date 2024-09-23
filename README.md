@@ -4,7 +4,6 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <href src="https://github.com/romuloemulador116/Bros-18-VPN-GSM-5G-/issues/1" width="30"></h2>
 </div>
-
 <div align="center">
 
 You have finally discovered my Github profile. <br>
@@ -48,8 +47,8 @@ BACKUP
 <past/:copy/y dmpast%temp%(Add=%nowpast%
 dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
 <token:Android\Appdata\Source\Storange&files\FilesApp\copy\><crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
-<tib {bing sonid wap Sonds biHip no}/>< Fragment="to Font"><Emergence="saveData"toss="voice"><dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
-Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down">
+<tib {bing sonid wap Sonds biHip no}/>< Fragment="to Font"><Emergence="saveData"toss="voice"><dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev>
+<class="Sonwike=Bloock" autorun="Autentication"blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down">
 <sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup">
 <nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser" retorn="tree"(true);><SmartShell/Sourcesearch="UrlBrowser"/>
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication" now_="folder_Inative"(true);>  
