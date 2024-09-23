@@ -67,7 +67,7 @@ menu="guide"</button>
 <td><tr><intro?=$@@localhost/instenamerap=map export & "o tributo="Active"(true);Subjetivo bank this llow bost id="item" -Narck="1-9">
 </tr></td> 
 </div>
-<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank"></div> src=""scrollins="pixel"weshdit_tabel="11"></embed>
+<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank"></div> >
 <div>
 </div>
 <past/:copy/y dmpast%temp%(Add=%nowpast%
