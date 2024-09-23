@@ -68,9 +68,16 @@ menu="guide"</button>
 </body>
 </html>
 <i>Follow me around the web:</i><br>
-
-<a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
+<a href="[https://www.google.com.br/in/ronsk-sekio]([https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419](https://camo.githubusercontent.com/67eff1b36c2f1e8ed6b3b18a5b43be8614c91c3dc47f12c49ac6810bd526f755/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7479706963616c6d6f646d616b65722673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374
+))" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
+<a href="https://www.instagram.com/perfil/in/motion/profile=?q%2Fronsther_romu%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="" target="_blank"><img src="[https://img.shields.io/badge/DEV-%230A0A0A.svg](https://camo.githubusercontent.com/7f51078ec8697ff9b7d18ea1c2d523559782d81db9ed9bb7947c012c77e48019/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7479706963616c6d6f646d616b6572266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
+)?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<i>Follow me around the web:</i><br>
+<a href="[https://www.google.com.br/in/ronsk-sekio]([[https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419](https://camo.githubusercontent.com/a38f17c09383906f5e50879739fe3571123e59f8486666ceeb12ab353c8ed897/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7479706963616c6d6f646d616b65722673686f775f69636f6e733d74727565266c6f63616c653d656e)](https://camo.githubusercontent.com/67eff1b36c2f1e8ed6b3b18a5b43be8614c91c3dc47f12c49ac6810bd526f755/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7479706963616c6d6f646d616b65722673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374
+))" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
 <a href="https://www.instagram.com/perfil/in/motion/profile=?q%2Fronsther_romu%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="[https://www.google.com.br/in/ronsk-sekio]([[https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419]https://camo.githubusercontent.com/f0ee04b80596b94279cb75e1be8ef0d61c281883327cc412a1763c15435cdabf/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7479706963616c6d6f646d616b657226
 
 </div>
