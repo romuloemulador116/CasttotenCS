@@ -588,8 +588,7 @@ menu="guide"</button>
                         Dec 28, 2021 - Jan 4, 2022
                     </text>
                 </g>
-            </g>
-            
+            </g>            
         </g>
     </svg>
 </div>
