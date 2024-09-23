@@ -40,23 +40,23 @@ BACKUP
 <goto universal UserID:pack ruble mailto:adelicia10@gmail.com cont="Afiliados-alias"bask-caixa="cashback">
 <a content="vantagens-selecionar ubankDashellrize"se factura="{gestion forbiden reren="submit}"></a>
 <id><a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id>
-<id><button class type="button button1">ENTER</button></id>
-<button class type="button button1"><mailto:adelicia10@gmail.com>no Facebook<Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
+<id><button class type="button button1">Entrar no Facebook</button></id>
+<button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
 <embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank" src="scrollins"pixel="null"weshdit_tabel="9"></embed>
 <div>
 </div>
 <past/:copy/y dmpast%temp%(Add=%nowpast%
 dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
-<token:Android\Appdata\Source\Storange&files\FilesApp\copy\><
-{crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
-<tib {bing sonid wap Sonds biHip no}/>< Fragment="to Font"><Emergence="saveData"
-toss voice}. <dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
-Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down")><sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser" retorn="tree"(true);><SmartShell/Sourcesearch="UrlBrowser"/>
+<token:Android\Appdata\Source\Storange&files\FilesApp\copy\><crowVoiceDir]¿?=1/stop.../*All-Slug/base=0,>
+<tib {bing sonid wap Sonds biHip no}/>< Fragment="to Font"><Emergence="saveData"toss="voice"><dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
+Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down">
+<sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/discagen="bestpup">
+<nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser" retorn="tree"(true);><SmartShell/Sourcesearch="UrlBrowser"/>
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication" now_="folder_Inative"(true);>  
-<quary="bin.set-out" value"=metadata"sent="programFils"/class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"></Filesource>
+<quary="bin.set-out" value"=metadata"sent="programFils"/class="flog" pelegren="Google.com.br:source" %my_App%(setting="update">
 <browser="Website-Steam" set Winteres=" SuportSites" Url="https://www.facebook.com/profile.php?id=100083385104890"target="blank" src=""><div alain="browser"ustend All Suport Browser"><target_blank"><fref src="http/:www.google.com.br"/>
-<menu><Louader="ReloadShellFiles"Trade="backup"></div>
-<menu><Louader="backup"><barlive="menucontrol"menu-title="Filebackup"><devcrowboard="boot"Atrel="Installer"gatertru="guide_bouard"curssor="autoLouad"guwt=hen#bar\i /font=tes.nz><bed="boardRowdradcheck/App"/><teffploded="Extrato"degranwifi="button"><gouarding="bug"><view="vanille"mannager="blende_andStatus"><menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/></barlivemenucontrol="menu-title"></menu>
+<menu Louader="ReloadShellFiles"Trade="backup"></div>
+<menu Louader="backup"><barlive="menucontrol"menu-title="Filebackup"><devcrowboard="boot"Atrel="Installer"gatertru="guide_bouard"curssor="autoLouad"guwt=hen#bar\i /font=tes.nz><bed="boardRowdradcheck/App"/><teffploded="Extrato"degranwifi="button"><gouarding="bug"><view="vanille"mannager="blende_andStatus"><menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/></barlivemenucontrol="menu-title">
 <button><t-bit_tombar"Command="DreenCoutCherfiles"menu-title="control" Button="baixar"Filebase="control"Checkup="Filebackup"><devSheft-rom="Users"bouard="Fileboot"Reload-home="romboot"Arelteschar-Atail="Installer"geten-trecker_page"
 menu="guide"</button>
 <Filesource> <profile="bouard="FileRestory"curssor="autoLouad"guiwets="Enter"DownFat="StartRun"Gas="#bar\i /font=tes.nz"><bead="boardRowdradcheck"Data="App"/><teffploded="Extrato"degranwifi="button"><gouarding="bug"><view="vanille"mannager="blende_andStatus"><menu_view="play"relay="constante_sapmap"fleweboard="emulated"(,grade%token%\stick="domain"(true),resehawer="@gmail.com"/></barlivemenucontrol="menu-title"></menu>
@@ -77,7 +77,7 @@ dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
 <tib {bing sonid wap Sonds biHip no}/>< Fragment="to Font"><Emergence="saveData"
 <toss voice}. <dinamic="Sonds%temp%^><polgitheOsAndroid.Source.wev><
 <Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down")><sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/>
-<discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser"> <retorn="tree"(true);> class="usr.html"><SmartShell/Sourcesearch="UrlBrowser"/>                                                                                                                                                              <div><a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
+<discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser"> <retorn="tree"(true);> <class="usr.html"><SmartShell/Sourcesearch="UrlBrowser"/>                                                                                                          <div><a href="[https://www.google.com.br/in/ronsk-sekio](https://news.google.com/foryou?hl=pt-BR&gl=BR&ceid=BR:pt-419)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTsPjgHD71HtVET4G27sSL6w7M33S9NP6AQ&usqp=CAU" alt="Google"></a>
 <a href="https://www.instagram.com/perfil/in/motion/profile=?q%2Fronsther_romu%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <quary="bin.set-out" value"=metadata"sent="programFils"/class="flog" pelegren="Google.com.br:source" %my_App%(setting="update"></Filesource>
