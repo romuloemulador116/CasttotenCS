@@ -89,7 +89,6 @@ menu="guide"</button>
 <td><tr><intro?=$@@localhost/instenamerap=map export & "o tributo="Active"(true);Subjetivo bank this llow bost id="item" -Narck="1-9">
 </div>
 </br>
-<i>Random development custon for you! (create your submit here ↓)</i><br>
 <td><tr><div waskleshaBank="(Submit-recisory payment day/y/tri Agost==[1953/agend-secund target="blank"><src="Sundtime-Data=NT:T09-200:-00:59:1-s/0001 dev your/a grinfatortocken="get-time="%💯%"></tr></td>  
 <info goto="tributo" but to c$ casp="cep payment"valours=" charset="valours-mêscontribuicion"><pin="submit -g tss cont="$" pagar="mailto:dwgbjpro@gmail.com" Afiliados="Alisean"bether=" Assistente"giro-capital ="money-contribuição"><a href="https://www.facebook.com" {
 <goto universal UserID:pack ruble mailto:adelicia10@gmail.com cont="Afiliados-alias"bask-caixa="cashback">
@@ -97,7 +96,7 @@ menu="guide"</button>
 <id><a href="https://www.facebook.com/profile.php?id=100001414089987)"target="blank" src="adelicia10@gmail.com"><id><id="task real porcent#ariel not foud"></id>
 <id><button class type="button button1"></button></id>
 <button class type="button button1"><mailto:adelicia10@gmail.com><Button type="button button1"><a href src="https://www.facebook.com/profile.php?id=100083385104890"></button> 
-<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank" src=""scrollins="pixel"weshdit_tabel="11"></embed>
+<embed><class="bouso-free my cont"><div class <a href src="https://www.facebook.com/profile.php?id=100083385104890" target="blank"></div> src=""scrollins="pixel"weshdit_tabel="11"></embed>
 <div>
 </div>
 <past/:copy/y dmpast%temp%(Add=%nowpast%
@@ -109,7 +108,7 @@ dir="setting/config/smc:cd%Android\Appdata\source\setting\config\Apps\>
 <Sonwike=Bloock,><(Autentication)%blustop="AutoEnd"><implemente="imput"dir="invod_Add:KeyplesData",twin="(t surf on froid down")><sdr="true;><comand:/$/Username/ten/bigligth(phone2/sdr/number/recall/>
 <discagen="bestpup"),nowfrest_tabel=font:\cd\smc\dretkelnama\my_copy\y button="Select");phone="terplaserLocalUser"> <retorn="tree"(true);> class="usr.html"><SmartShell/Sourcesearch="UrlBrowser"/>
 <prompt metadata="filename"object="complement" value="tar"cheart-temple="target"delclone="local"derywer="winner_privace"online-cecurity="aplication"> <now_="folder_Inative"(true);>  
-<quary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace" <rel="auto">
+<quary="bin.set-out" value="metadata"rel stu="suportsites" Utl="content" value="program" type="chear"  lang="US-en_Inglish" alt="charset-get" und="replace"> <rel="auto">
 </tr></td> 
 </div>
 </body>
