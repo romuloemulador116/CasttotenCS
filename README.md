@@ -18,9 +18,7 @@ or <a href="mailto:dwgbjpro@gmail.com"><b>email</b></a> me.
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=romuloemulador116&include_all_commits=true&count_public=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mask's Github Stats">
-<img align="center" src="https://camo.githubusercontent.com/a38f17c09383906f5e50879739fe3571123e59f8486666ceeb12ab353c8ed897/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7479706963616c6d6f646d616b65722673686f775f69636f6e733d74727565266c6f63616c653d656e
-" alt="mask's Github Stats">
- 
+</div> 
 </br>
 </br>
 <i>Random development custon for you! (create your submit here ↓)</i><br>
